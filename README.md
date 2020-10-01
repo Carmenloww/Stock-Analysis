@@ -2,6 +2,8 @@
 
 ## Overview of Project
 ### Purpose
+
+The purpose of this project 
 Explain the purpose of this analysis.
 The purpose and background are well defined (2 pt).
 
