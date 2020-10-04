@@ -2,7 +2,6 @@
 
 ## Overview of Project
 ### Purpose
-
 The purpose of this challenge is to edit or refactor the VBA code to loop through all the data one time in order to collect the same information. Then we will determine whether refactoring the code was successfully made the VBA script run faster. A written analysis that explains the finding will be presented. Refactoring is a fundamental part of the coding process. You're making the code more efficient with fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 ## Results
@@ -11,8 +10,10 @@ The analysis is well described with screenshots and code (4 pt).
 
 ## Summary
 
-In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code?
+When you are code refactoring, you are optimizing the existing code without adding any functionality.
+
+
 
 detailed statement on the advantages and disadvantages of refactoring code in general (3 pt)
 
