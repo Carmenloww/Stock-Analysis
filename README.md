@@ -7,9 +7,10 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 The analysis is well described with screenshots and code (4 pt).
+![Outcomes Based on Goals](https://github.com/Carmenloww/Kickstarter-Analysis/blob/master/Resources/Outcomes_vs_Goals.png?raw=true)
 
 
-
+![Outcomes Based on Goals](https://github.com/Carmenloww/Kickstarter-Analysis/blob/master/Resources/Outcomes_vs_Goals.png?raw=true)
 ## Summary
 
 What are the advantages or disadvantages of refactoring code?
