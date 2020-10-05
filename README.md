@@ -6,11 +6,24 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
+1. Created a tickerIndex variable to set 
+2. Created three output arrays for tickers,tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+
+
+
+
+
+
 The analysis is well described with screenshots and code (4 pt).
 ![VBA_Challenge_2017.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/VBA_Challenge_2017.png)
 
+In 2017, all of the stocks had positive Returns except for TERP (-7.2%). "DQ" made the best yearly return with 199.4% but it has the lowest total Daily Volume (35,796,200) in 2017.
 
 ![VBA_Challenge_2018.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/VBA_Challenge_2018.png)
+
+In 2018, all stocks had a negative Return percentage except for  ENPH (81.9%) and RUN (84%). They both had positive yearly Returns with high Total Daily Volumes and outperformed than other green stocks.
+
 ## Summary
 
 What are the advantages or disadvantages of refactoring code?
