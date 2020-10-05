@@ -7,7 +7,8 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 ## Results
 
 1. Created a tickerIndex variable to set it equal to zero before looping over the rows.
-
+   For i = 0 To 11
+       tickerIndex = tickers(i)
 2. Created three output arrays for tickers(),tickerVolumes(), tickerStartingPrices() , and tickerEndingPrices().
 
 3. Access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays using the tickerIndex
