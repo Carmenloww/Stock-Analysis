@@ -8,7 +8,7 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 1. Created a tickerIndex variable to set 
-2. Created three output arrays for tickers,tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+2. Created three output arrays for tickers(),tickerVolumes(), tickerStartingPrices() , and tickerEndingPrices().
 
 
 
