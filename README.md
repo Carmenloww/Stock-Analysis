@@ -5,15 +5,21 @@
 The purpose of this challenge is to edit or refactor the VBA code to loop through all the data one time in order to collect the same information. Then we will determine whether refactoring the code was successfully made the VBA script run faster. A written analysis that explains the finding will be presented. Refactoring is a fundamental part of the coding process. You're making the code more efficient with fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 ## Results
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
 1. Created a tickerIndex variable to set it equal to zero before looping over the rows.
+
 2. Created three output arrays for tickers(),tickerVolumes(), tickerStartingPrices() , and tickerEndingPrices().
+
 3.Access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays using the tickerIndex
+
 4.Script the loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+
 5.Code for formatting the cells in the spreadsheet is working.
+
 6.There are comments to explain the purpose of the code
+
 7.The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook will match the outputs from the AllStockAnalysis in the module.
+
 8.The pop-up messages will show the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png
 
 
