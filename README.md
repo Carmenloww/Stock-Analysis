@@ -10,17 +10,17 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 
 2. Created three output arrays for tickers(),tickerVolumes(), tickerStartingPrices() , and tickerEndingPrices().
 
-3.Access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays using the tickerIndex
+3. Access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays using the tickerIndex
 
-4.Script the loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+4. Script the loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 
-5.Code for formatting the cells in the spreadsheet is working.
+5. Code for formatting the cells in the spreadsheet is working.
 
-6.There are comments to explain the purpose of the code
+6. There are comments to explain the purpose of the code
 
-7.The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook will match the outputs from the AllStockAnalysis in the module.
+7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook will match the outputs from the AllStockAnalysis in the module.
 
-8.The pop-up messages will show the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png
+8. The pop-up messages will show the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png
 
 
 ![VBA_Challenge_2017.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/VBA_Challenge_2017.png)
