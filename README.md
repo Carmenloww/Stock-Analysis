@@ -7,15 +7,16 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-1. Created a tickerIndex variable to set 
+1. Created a tickerIndex variable to set it equal to zero before looping over the rows.
 2. Created three output arrays for tickers(),tickerVolumes(), tickerStartingPrices() , and tickerEndingPrices().
+3.Access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays using the tickerIndex
+4.Script the loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+5.Code for formatting the cells in the spreadsheet is working.
+6.There are comments to explain the purpose of the code
+7.The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook will match the outputs from the AllStockAnalysis in the module.
+8.The pop-up messages will show the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png
 
 
-
-
-
-
-The analysis is well described with screenshots and code (4 pt).
 ![VBA_Challenge_2017.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/VBA_Challenge_2017.png)
 
 In 2017, all of the stocks had positive Returns except for TERP (-7.2%). "DQ" made the best yearly return with 199.4% but it has the lowest total Daily Volume (35,796,200) in 2017.
