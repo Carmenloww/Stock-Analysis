@@ -21,7 +21,8 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook will match the outputs from the AllStockAnalysis in the module.
 
 8. The pop-up messages will show the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png
-
+![VBA_Challenge_2017.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Screen%20Shot%202020-10-03%20at%2012.01.42%20PM.png)
+![VBA_Challenge_2018.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Screen%20Shot%202020-10-03%20at%2012.01.26%20PM.png)
 
 ![VBA_Challenge_2017.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/VBA_Challenge_2017.png)
 
