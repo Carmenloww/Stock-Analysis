@@ -7,19 +7,20 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 ## Results
 
 1. Created a tickerIndex variable to set it equal to zero before looping over the rows.
-  ![Create tickerIndex.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Create%20tickerIndex.png)
+
+![Create tickerIndex.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Create%20tickerIndex.png)
+
 2. Created three output arrays for tickers(),tickerVolumes(), tickerStartingPrices() , and tickerEndingPrices().
 ![Create Arrays Output.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Create%20Arrays%20Output.png)
+
 3. Access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays using the tickerIndex
 ![Create Loop.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Create%20Loop.png)
+
 4. Script the loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 ![The script loops.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/The%20script%20loops.png)
 5. Code for formatting the cells in the spreadsheet is working.
-
 6. There are comments to explain the purpose of the code
-
 7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook will match the outputs from the AllStockAnalysis in the module.
-
 8. The pop-up messages will show the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png
 ![VBA_Challenge_2017.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Screen%20Shot%202020-10-03%20at%2012.01.42%20PM.png)
 ![VBA_Challenge_2018.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Screen%20Shot%202020-10-03%20at%2012.01.26%20PM.png)
@@ -39,4 +40,5 @@ What are the advantages or disadvantages of refactoring code?
 When you are code refactoring, you are optimizing the existing code without adding any functionality. The advantages of code refactoring are to improve the performance of the code more efficiently and to be easier to understand or read. The disadvantages of code refactoring are that it is time-consuming, and you are likely to spend much more time solving the problem. It is possible that the coding may go wrong due to the complexity of the code. 
 
 How do these pros and cons apply to refactoring the original VBA script?
+
 These advantages of refactoring code can apply to the original VBA because you can create a readable and composed code, so it is easier to understand and look over. These disadvantages of refactoring code can apply to the original VBA because it could be time-consuming if you didn't pay attention to the refactoring code process.
