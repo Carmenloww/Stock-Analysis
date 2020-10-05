@@ -7,13 +7,13 @@ The purpose of this challenge is to edit or refactor the VBA code to loop throug
 ## Results
 
 1. Created a tickerIndex variable to set it equal to zero before looping over the rows.
-  
+  ![Create tickerIndex.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Create%20tickerIndex.png)
 2. Created three output arrays for tickers(),tickerVolumes(), tickerStartingPrices() , and tickerEndingPrices().
-
+![Create Arrays Output.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Create%20Arrays%20Output.png)
 3. Access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays using the tickerIndex
-
+![Create Loop.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/Create%20Loop.png)
 4. Script the loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
-
+![The script loops.png](https://github.com/Carmenloww/Stock-analysis/blob/master/Resources/The%20script%20loops.png)
 5. Code for formatting the cells in the spreadsheet is working.
 
 6. There are comments to explain the purpose of the code
